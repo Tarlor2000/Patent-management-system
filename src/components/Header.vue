@@ -1,6 +1,6 @@
 <template>
     <header>
-        <h2>专利管理系统</h2>
+        <h2>专利管理系统vxcvgsdgdsgd</h2>
         <div class = 'people'>
             <h4>吱吱</h4>
             <h4>业务录入人员</h4>
